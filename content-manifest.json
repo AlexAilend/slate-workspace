@@ -1,0 +1,10 @@
+{
+  "questions": 103,
+  "pdf_sha256": "fe5492a00371afbf3c6bdf714553aff2750df4a60e6170efb7ba139ce0685f8f",
+  "parts": [
+    "reference-1.bin",
+    "reference-2.bin",
+    "reference-3.bin"
+  ],
+  "pdf_bytes": 60228256
+}
